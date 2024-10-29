@@ -75,7 +75,6 @@ section {
   padding: 1em;
   margin-bottom: 2em;
   position: relative;
-  
 }
 section h2 {
   text-align: center;
@@ -88,6 +87,22 @@ section h2 {
   top: -1.2em;
   background-color: gray;
   padding: 0.2em;
+}
+
+/* #buttons {
+  position: relative;
+} */
+
+.blue {
+  background-color: #ffffff;
+  color: blue;
+  border: solid 1px white;
+}
+
+#red {
+  background-color: #ffffff;
+  color: red;
+  border: solid 1px white;
 }
 
 /* ELEMENTI NEL MAIN - ARTICLE */
