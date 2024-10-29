@@ -93,16 +93,46 @@ section h2 {
   position: relative;
 } */
 
-.blue {
-  background-color: #ffffff;
-  color: blue;
-  border: solid 1px white;
+#blue {
+  background-color: transparent;
+  border: solid 1px black;
+  position: fixed;
+  text-align: center;
+  bottom: 10em;
+  right: 0.1em;
+  border-radius: 20%;
+}
+
+#blue2 {
+  background-color: transparent;
+  border: solid 1px black;
+  position: fixed;
+  text-align: center;
+  bottom: 7em;
+  right: 0.1em;
+  border-radius: 20%;
 }
 
 #red {
-  background-color: #ffffff;
-  color: red;
-  border: solid 1px white;
+  background-color: transparent;
+  border: solid 1px black;
+  position: fixed;
+  text-align: center;
+  bottom: 4em;
+  right: 0.1em;
+  border-radius: 20%;
+}
+
+#social {
+  color: blue;
+}
+
+#calendar {
+  color: blue;
+}
+
+#start {
+  color: violet;
 }
 
 /* ELEMENTI NEL MAIN - ARTICLE */
